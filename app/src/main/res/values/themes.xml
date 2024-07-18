@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.LegacyStuff" parent="android:Theme.NoTitleBar" />
+</resources>
